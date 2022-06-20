@@ -6,7 +6,7 @@ body{
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background: url("bg.jpg");
+    background: url("https://images.unsplash.com/photo-1439396874305-9a6ba25de6c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTkwfHxuYXR1cmV8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
     background-position: center;
     background-size: cover;
     overflow: hidden;
