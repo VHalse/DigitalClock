@@ -16,7 +16,7 @@ h1{
     letter-spacing: 4px;
     font-size: 20px;
     text-align: center;
-    color: white;
+    color:Red;
 }
 
 .clock{
@@ -31,7 +31,7 @@ h1{
     height: 80px;
     background-color: slateblue;
     opacity: .8;
-    color: white;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,7 +43,7 @@ h1{
     font-size: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    background: darkblue;
+    background: orange;
     opacity: .8;
 }
 
@@ -53,5 +53,5 @@ h1{
     width: 60px;
     height: 30px;
     font-size: 20px;
-    background:green;
+    background:orange;
 }
